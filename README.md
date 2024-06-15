@@ -1,7 +1,7 @@
 # NETFLIX DATA ANALYSIS
 
 Analyze Netflix data to gain insights into content trends, top contributors, and geographical distribution.
-
+![net](https://github.com/bhkritika/Netflix-Data-Analysis/assets/141895513/b9c85ff5-7c27-436c-a818-9e1fa76ce28b)
 
 ## Table of Contents
 
@@ -47,14 +47,20 @@ The dataset contains information about TV shows and movies available on Netflix,
 ## Analysis
 
 1. Yearly Trends: A visualization of the yearly trend of TV shows and movies released on Netflix from 2012 to 2024.
+![1  ](https://github.com/bhkritika/Netflix-Data-Analysis/assets/141895513/5e1121a6-81c6-4c32-82de-79cff18d5540)
 
 2. Top Contributors: A breakdown of the top directors and actors who have contributed the most to Netflix's content library.
+![2  ](https://github.com/bhkritika/Netflix-Data-Analysis/assets/141895513/c96cf65f-a173-44af-ad13-5e749e6194aa)
+![2 1](https://github.com/bhkritika/Netflix-Data-Analysis/assets/141895513/ea4411c5-f78a-4b3b-b999-2c4856de9cf4)
 
 3. Content by Country: An analysis of the distribution of TV shows and movies by country, highlighting the leading contributors.
+![3](https://github.com/bhkritika/Netflix-Data-Analysis/assets/141895513/44037311-e1ce-43a4-8ffd-127eb54d8210)
 
 4. Sentiment Analysis: An examination of the sentiment in the descriptions of Netflix content, providing insights into the overall tone of the platform's offerings.
+![4  ](https://github.com/bhkritika/Netflix-Data-Analysis/assets/141895513/6ff38749-5798-49d6-8cc2-d1dbb3ef1225)
 
 5. Seasonality and Trends: A decomposition of the time series data to observe seasonal trends and patterns in content additions.
+![5](https://github.com/bhkritika/Netflix-Data-Analysis/assets/141895513/e9665c0d-3636-49cf-bcd4-e3dfe6376ea5)
 
 ## Limitations 
 
