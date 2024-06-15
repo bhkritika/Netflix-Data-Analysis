@@ -13,7 +13,7 @@ Analyze Netflix data to gain insights into content trends, top contributors, and
     - [Prerequisites](#prerequisites)
   - [Data Overview](#data-overview)
   - [Analysis](#analysis)
-  - [Limitations](#limitations)
+  - [Limitation](#limitations)
   - [Future Work](#future-work)
 
 
